@@ -1,0 +1,1 @@
+Bu projede UART haberleşmesini taklit etmek için Ardunio Leonardo kullandım. Bu sayede Usb portuna veri gönderdim.
